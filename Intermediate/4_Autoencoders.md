@@ -1,4 +1,4 @@
-Great — now you're stepping into the 
+
 ## 🟡 **4. Autoencoders (AEs)**
 
 ### 🔍 **Key Concepts**
